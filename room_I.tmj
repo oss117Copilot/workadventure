@@ -72,7 +72,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"slackday.tmj"
+                 "value":"map.tmj"
                 }],
          "type":"tilelayer",
          "visible":true,
