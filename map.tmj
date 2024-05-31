@@ -3560,7 +3560,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/link.deon.cloud\/lite\/onprem?l=https%3A%2F%2Fdeon.dataport.de%2FWeb%2Fl%2F%5BDS44%5D%2520Projekte%2520und%2520Teams%3Fae6dadf9-ca5b-4924-99cb-ac44704717a6&s=qW3lEtsEh26wh3Tki1tOCLomn6i9iKSQh742FE3GlE9hfmsTw78qSxaWy0UUPua20mABrQcRBXlaVN-5hlnFIhSmBpqLOWH6iGww5opZrV4sFSnxtvyuDxGdGOkCGlFxHPUw9H8SjUbxmAG4AfA4rYFQ2feUvtNfvrn9BfreXt9HGorTyKEOQzZRbCuRvaZIp4UlWkUZHBELiQGObXXeFeUONuWGud~cyzsolVykBBgSoNXbSqCUhHJEQcnlug6yEVeGwaqiI~https:\/\/deon.dataport.de\/Web\/App?mapLink=join%3A%2F%2Fdeon.dataport.de%2F%5BDS44%5D%20Slackday%20%233%20-%202023%3Fc3e9ed2a-39d8-4984-9b01-e6c480b05e2a"
+                         "value":"https:\/\/deon.dataport.de\/Web\/App?mapLink=join%3A%2F%2Fdeon.dataport.de%2F%5BDS44%5D%20Slackday%20%233%20-%202023%3Fc3e9ed2a-39d8-4984-9b01-e6c480b05e2a"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
