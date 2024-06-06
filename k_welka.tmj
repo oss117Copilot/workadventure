@@ -2615,7 +2615,7 @@
         {
           "name": "exitUrl",
           "type": "string",
-          "value": "map.tjm"
+          "value": "map.tmj"
         }
       ],
       "x": 0,
@@ -19506,7 +19506,7 @@
         0,
         0,
         0,
-        0,
+        35,
         33,
         33,
         33,
@@ -19810,7 +19810,7 @@
         0,
         0,
         0,
-        0,
+        35,
         33,
         33,
         33,
@@ -20658,7 +20658,7 @@
         38,
         38,
         38,
-        0,
+        34,
         0,
         0,
         0,
@@ -20943,7 +20943,7 @@
     {
       "columns": 7,
       "firstgid": 1,
-      "image": "k_welka-chunk-1-42e1669a.png",
+      "image": "k_welka-chunk-1-17b80ee5.png",
       "imageheight": 224,
       "imagewidth": 224,
       "margin": 0,
